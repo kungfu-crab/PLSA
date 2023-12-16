@@ -1,0 +1,4 @@
+['Associate_in_Nursing', 'graph', 'astatine', 'beryllium', 'nitrogen', 'consequence', 'magnetic', 'distribution', 'algorithm']
+['Associate_in_Nursing', 'consequence', 'beryllium', 'information_technology', 'function', 'algorithm', 'estimate', 'system', 'matrix']
+['network', 'propose', 'data', 'Associate_in_Nursing', 'learning', 'beryllium', 'information_technology', 'image', 'aid']
+['astatine', 'beryllium', 'consequence', 'Associate_in_Nursing', 'galaxy', 'phase', 'system', 'spin', 'magnetic']
