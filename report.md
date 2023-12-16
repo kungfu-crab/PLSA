@@ -179,6 +179,12 @@ def LogLikelihood(p, X, lam, theta):
 
 
 
+# 项目开源
+
+本项目开源在[kungfu-crab/PLSA: A python implementation for PLSA(Probabilistic Latent Semantic Analysis) using EM algorithm. (github.com)](https://github.com/kungfu-crab/PLSA)，仅作为学习交流使用，禁止转载与抄袭。
+
+
+
 # 参考文献
 
 [1] Hofmann, T. (1999). Probabilistic Latent Semantic Analysis. In Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence (pp. 289-296). Morgan Kaufmann Publishers Inc. 
